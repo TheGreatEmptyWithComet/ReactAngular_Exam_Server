@@ -1,0 +1,106 @@
+[
+  {
+    "Id": 111,
+    "Category": "Pizza",
+    "Subcategory": "New",
+    "Name": "Pizza with dried tomatoes and chicken",
+    "Image": "",
+    "Ingredients": [
+      "Mozarella",
+      "Bergader Blue",
+      "Al'fredo sauce",
+      "Pear"
+    ],
+    "Price": 328,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Price": 0,
+          "Weight": 550
+        },
+        {
+          "Name": "Large",
+          "Price": 40,
+          "Weight": 747
+        },
+        {
+          "Name": "ExtraLarge",
+          "Price": 100,
+          "Weight": 824
+        }
+      ]
+    }
+
+  },
+  {
+    "Id": 112,
+    "Category": "Pizza",
+    "Subcategory": "New",
+    "Name": "Sweet pizza",
+    "Image": "",
+    "Ingredients": [
+      "Mozarella",
+      "Banana",
+      "Choco paste",
+      "Almond"
+    ],
+    "Price": 286,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Price": 0,
+          "Weight": 588
+        },
+        {
+          "Name": "Large",
+          "Price": 40,
+          "Weight": 780
+        },
+        {
+          "Name": "ExtraLarge",
+          "Price": 100,
+          "Weight": 851
+        }
+      ]
+    }
+
+  },
+  {
+    "Id": 121,
+    "Category": "Pizza",
+    "Subcategory": "Best price",
+    "Name": "Pizza Texas",
+    "Image": "",
+    "Ingredients": [
+      "Bavarian sausages",
+      "Mozarella",
+      "Onion",
+      "Corn",
+      "Mushrooms",
+      "BBQ sauce"
+    ],
+    "Price": 240,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Price": 0,
+          "Weight": 534
+        },
+        {
+          "Name": "Large",
+          "Price": 40,
+          "Weight": 716
+        },
+        {
+          "Name": "ExtraLarge",
+          "Price": 100,
+          "Weight": 783
+        }
+      ]
+    }
+
+  }
+]

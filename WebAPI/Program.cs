@@ -1,3 +1,5 @@
+using WebAPI.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // AddControllers adds the necessary services for web API controllers to your application.
@@ -7,6 +9,8 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddSingleton<IDataReader, DataReader>();
+
 
 builder.Services.AddCors(options =>
 {
