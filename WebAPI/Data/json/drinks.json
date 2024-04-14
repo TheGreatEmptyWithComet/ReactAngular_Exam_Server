@@ -1,0 +1,110 @@
+[
+  {
+    "Id": 211,
+    "Category": "Drinks",
+    "Subcategory": "Water and drinks",
+    "Name": "Coca-Cola",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 43,
+    "Options": {
+      "Size": [
+        {
+          "Name": "330 ml",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 0
+        },
+        {
+          "Name": "500 ml",
+          "Selected": false,
+          "Price": 1.2,
+          "Weight": 0
+        },
+        {
+          "Name": "750 ml",
+          "Selected": false,
+          "Price": 1.4,
+          "Weight": 0
+        }
+      ]
+    }
+
+  },
+  {
+    "Id": 212,
+    "Category": "Drinks",
+    "Subcategory": "Water and drinks",
+    "Name": "Sprite",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 43,
+    "Options": {
+      "Size": [
+        {
+          "Name": "330 ml",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 0
+        },
+        {
+          "Name": "500 ml",
+          "Selected": false,
+          "Price": 1.2,
+          "Weight": 0
+        },
+        {
+          "Name": "750 ml",
+          "Selected": false,
+          "Price": 1.4,
+          "Weight": 0
+        }
+      ]
+    }
+
+  },
+  {
+    "Id": 221,
+    "Category": "Drinks",
+    "Subcategory": "Juice",
+    "Name": "Rich Orange",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 98,
+    "Options": {
+      "Size": [
+        {
+          "Name": "1 L",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 0
+        }
+      ]
+    }
+
+  },
+  {
+    "Id": 222,
+    "Category": "Drinks",
+    "Subcategory": "Juice",
+    "Name": "GALICIA Tomato juice with salt",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 90,
+    "Options": {
+      "Size": [
+        {
+          "Name": "1 L",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 0
+        }
+      ]
+    }
+
+  }
+]

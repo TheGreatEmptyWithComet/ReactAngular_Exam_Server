@@ -4,6 +4,7 @@
     "Category": "Pizza",
     "Subcategory": "New",
     "Name": "Pizza with dried tomatoes and chicken",
+    "Amount": 1,
     "Image": "",
     "Ingredients": [
       "Mozarella",
@@ -16,17 +17,20 @@
       "Size": [
         {
           "Name": "Standart",
-          "Price": 0,
+          "Selected": true,
+          "Price": 1,
           "Weight": 550
         },
         {
           "Name": "Large",
-          "Price": 40,
+          "Selected": false,
+          "Price": 1.15,
           "Weight": 747
         },
         {
           "Name": "ExtraLarge",
-          "Price": 100,
+          "Selected": false,
+          "Price": 1.30,
           "Weight": 824
         }
       ]
@@ -38,6 +42,7 @@
     "Category": "Pizza",
     "Subcategory": "New",
     "Name": "Sweet pizza",
+    "Amount": 1,
     "Image": "",
     "Ingredients": [
       "Mozarella",
@@ -50,17 +55,20 @@
       "Size": [
         {
           "Name": "Standart",
-          "Price": 0,
+          "Selected": true,
+          "Price": 1,
           "Weight": 588
         },
         {
           "Name": "Large",
-          "Price": 40,
+          "Selected": false,
+          "Price": 1.15,
           "Weight": 780
         },
         {
           "Name": "ExtraLarge",
-          "Price": 100,
+          "Selected": false,
+          "Price": 1.30,
           "Weight": 851
         }
       ]
@@ -72,6 +80,7 @@
     "Category": "Pizza",
     "Subcategory": "Best price",
     "Name": "Pizza Texas",
+    "Amount": 1,
     "Image": "",
     "Ingredients": [
       "Bavarian sausages",
@@ -86,17 +95,20 @@
       "Size": [
         {
           "Name": "Standart",
-          "Price": 0,
+          "Selected": true,
+          "Price": 1,
           "Weight": 534
         },
         {
           "Name": "Large",
-          "Price": 40,
+          "Selected": false,
+          "Price": 1.15,
           "Weight": 716
         },
         {
           "Name": "ExtraLarge",
-          "Price": 100,
+          "Selected": false,
+          "Price": 1.30,
           "Weight": 783
         }
       ]

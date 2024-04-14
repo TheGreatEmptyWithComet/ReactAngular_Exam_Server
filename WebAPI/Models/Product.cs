@@ -13,6 +13,7 @@ namespace WebAPI.Models
         public List<string> Ingredients { get; set; }
         public int Price { get; set; }
         public Options Options { get; set; }
+        public int Amount { get; set; }
     }
 
 
