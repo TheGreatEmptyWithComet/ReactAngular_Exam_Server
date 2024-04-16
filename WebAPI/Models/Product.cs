@@ -14,6 +14,7 @@ namespace WebAPI.Models
         public int Price { get; set; }
         public Options Options { get; set; }
         public int Amount { get; set; }
+        //public string CartId { get; set; }
     }
 
 

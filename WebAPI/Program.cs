@@ -14,7 +14,7 @@ builder.Services.AddSingleton<IDataReader, DataReader>();
 
 builder.Services.AddCors(options =>
 {
-    options.AddDefaultPolicy(policy => policy.SetIsOriginAllowed(origin => new Uri(origin).Host == "localhost"));
+    options.AddDefaultPolicy(policy => policy.SetIsOriginAllowed(origin => new Uri(origin).Host == "localhost").AllowAnyHeader().AllowAnyMethod());
 });
 
 var app = builder.Build();
