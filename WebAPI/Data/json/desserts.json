@@ -1,0 +1,163 @@
+[
+  {
+    "Id": 411,
+    "Category": "Desserts",
+    "Subcategory": "Dessert",
+    "Name": "Lava Cake",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 65,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 96
+        }
+      ]
+    }
+  },
+  {
+    "Id": 412,
+    "Category": "Desserts",
+    "Subcategory": "Dessert",
+    "Name": "Chocolate rolls",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 115,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 265
+        }
+      ]
+    }
+  },
+  {
+    "Id": 413,
+    "Category": "Desserts",
+    "Subcategory": "Dessert",
+    "Name": "Cinnamon rolls",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 115,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 300
+        }
+      ]
+    }
+  },
+  {
+    "Id": 414,
+    "Category": "Desserts",
+    "Subcategory": "Dessert",
+    "Name": "Cherry rolls",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 115,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 290
+        }
+      ]
+    }
+  },
+  {
+    "Id": 421,
+    "Category": "Desserts",
+    "Subcategory": "Ice cream",
+    "Name": "Eclair-brownie іce cream in a waffle cone, Monaco",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 45,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 100
+        }
+      ]
+    }
+  },
+  {
+    "Id": 422,
+    "Category": "Desserts",
+    "Subcategory": "Ice cream",
+    "Name": "Caramel and sesame, іce cream glazed, on a stick, Monaco",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 45,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 75
+        }
+      ]
+    }
+  },
+  {
+    "Id": 423,
+    "Category": "Desserts",
+    "Subcategory": "Ice cream",
+    "Name": "Ice cream 'Strawberry Cheesecake', Monaco",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 190,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 500
+        }
+      ]
+    }
+  },
+  {
+    "Id": 424,
+    "Category": "Desserts",
+    "Subcategory": "Ice cream",
+    "Name": "Pistachio ice cream “Try Vedmedi”",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 180,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 500
+        }
+      ]
+    }
+  }
+
+]

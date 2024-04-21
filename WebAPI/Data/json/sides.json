@@ -1,0 +1,190 @@
+[
+  {
+    "Id": 311,
+    "Category": "Sides",
+    "Subcategory": "Salads",
+    "Name": "Greek salad",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [
+      "Salad mix",
+      "Sweet pepper",
+      "Cherry tomatoes",
+      "Olives",
+      "Feta",
+      "French sauce (14g)"
+    ],
+    "Price": 123,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 156
+        }
+      ]
+    }
+  },
+  {
+    "Id": 312,
+    "Category": "Sides",
+    "Subcategory": "Salads",
+    "Name": "Salad with turkey",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [
+      "Salad mix",
+      "Turkey",
+      "Cherry tomatoes",
+      "Parmesan",
+      "Sweet pepper",
+      "Honey-mustard sauce (40g)"
+    ],
+    "Price": 123,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 170
+        }
+      ]
+    }
+  },
+  {
+    "Id": 313,
+    "Category": "Sides",
+    "Subcategory": "Salads",
+    "Name": "Salad with veal",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [
+      "Salad mix",
+      "Veal",
+      "Cherry tomatoes",
+      "Parmesan",
+      "Sweet pepper",
+      "Honey-mustard sauce (40g)"
+    ],
+    "Price": 130,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 170
+        }
+      ]
+    }
+  },
+  {
+    "Id": 314,
+    "Category": "Sides",
+    "Subcategory": "Salads",
+    "Name": "Salad with tuna",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [
+      "Salad mix",
+      "Tuna",
+      "Cherry tomatoes",
+      "Pickled cucumbers",
+      "Olives",
+      "French sauce (14g)"
+    ],
+    "Price": 144,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 159
+        }
+      ]
+    }
+  },
+  {
+    "Id": 321,
+    "Category": "Sides",
+    "Subcategory": "Mini rolls",
+    "Name": "Minirolls with pepperoni and pepper",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 99,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 250
+        }
+      ]
+    }
+  },
+  {
+    "Id": 322,
+    "Category": "Sides",
+    "Subcategory": "Mini rolls",
+    "Name": "Minirolls with torned beef and onion",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 105,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 235
+        }
+      ]
+    }
+  },
+  {
+    "Id": 323,
+    "Category": "Sides",
+    "Subcategory": "Mini rolls",
+    "Name": "Minirolls with ham and mushrooms",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 99,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 260
+        }
+      ]
+    }
+  },
+  {
+    "Id": 324,
+    "Category": "Sides",
+    "Subcategory": "Mini rolls",
+    "Name": "Minirolls with salmon and philadelphia",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 199,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 235
+        }
+      ]
+    }
+  }
+]

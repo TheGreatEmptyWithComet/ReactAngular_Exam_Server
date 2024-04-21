@@ -23,9 +23,9 @@ namespace WebAPI.Services
             int length = productId.ToString().Length;
             int divider = (int)Math.Pow(10 ,(length - 1));
 
-            int categoryId = productId / divider;                              // category is defined by the first digit in id number
-            int imageId = productId % divider;      // remained digits are the image id
-            string imageName = imageId.ToString() + ".avif";
+            int categoryId = productId / divider;   // category is defined by the first digit in id number
+            //int imageId = productId % divider;      // remained digits are the image id
+            string imageName = productId.ToString() + ".avif";
 
             switch (categoryId)
             {
@@ -34,6 +34,12 @@ namespace WebAPI.Services
                     break;
                 case 2:
                     subdirectoryName = "drinks";
+                    break;
+                case 3:
+                    subdirectoryName = "sides";
+                    break;
+                case 4:
+                    subdirectoryName = "desserts";
                     break;
                 default:
                     subdirectoryName = string.Empty;
@@ -56,6 +62,12 @@ namespace WebAPI.Services
                     break;
                 case "drinks":
                     fileName = "drinks.json";
+                    break;
+                case "sides":
+                    fileName = "sides.json";
+                    break;
+                case "desserts":
+                    fileName = "desserts.json";
                     break;
                 default:
                     fileName = string.Empty;

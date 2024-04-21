@@ -66,6 +66,60 @@
 
   },
   {
+    "Id": 213,
+    "Category": "Drinks",
+    "Subcategory": "Water and drinks",
+    "Name": "Fanta Orange",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 46,
+    "Options": {
+      "Size": [
+        {
+          "Name": "330 ml",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 0
+        },
+        {
+          "Name": "500 ml",
+          "Selected": false,
+          "Price": 1.2,
+          "Weight": 0
+        },
+        {
+          "Name": "750 ml",
+          "Selected": false,
+          "Price": 1.4,
+          "Weight": 0
+        }
+      ]
+    }
+
+  },
+  {
+    "Id": 214,
+    "Category": "Drinks",
+    "Subcategory": "Water and drinks",
+    "Name": "BonAqua still water",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 42,
+    "Options": {
+      "Size": [
+        {
+          "Name": "500 ml",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 0
+        }
+      ]
+    }
+
+  },
+  {
     "Id": 221,
     "Category": "Drinks",
     "Subcategory": "Juice",
@@ -84,7 +138,6 @@
         }
       ]
     }
-
   },
   {
     "Id": 222,
@@ -105,6 +158,125 @@
         }
       ]
     }
-
+  },
+  {
+    "Id": 223,
+    "Category": "Drinks",
+    "Subcategory": "Juice",
+    "Name": "Rich Apple",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 105,
+    "Options": {
+      "Size": [
+        {
+          "Name": "1 L",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 0
+        }
+      ]
+    }
+  },
+  {
+    "Id": 224,
+    "Category": "Drinks",
+    "Subcategory": "Juice",
+    "Name": "Rich Exotic",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 105,
+    "Options": {
+      "Size": [
+        {
+          "Name": "1 L",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 0
+        }
+      ]
+    }
+  },
+  {
+    "Id": 231,
+    "Category": "Drinks",
+    "Subcategory": "Beer",
+    "Name": "Corona",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 79,
+    "Options": {
+      "Size": [
+        {
+          "Name": "330 ml",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 0
+        }
+      ]
+    }
+  },
+  {
+    "Id": 232,
+    "Category": "Drinks",
+    "Subcategory": "Beer",
+    "Name": "Stella Artois",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 70,
+    "Options": {
+      "Size": [
+        {
+          "Name": "500 ml",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 0
+        }
+      ]
+    }
+  },
+  {
+    "Id": 233,
+    "Category": "Drinks",
+    "Subcategory": "Beer",
+    "Name": "Bud",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 70,
+    "Options": {
+      "Size": [
+        {
+          "Name": "500 ml",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 0
+        }
+      ]
+    }
+  },
+  {
+    "Id": 234,
+    "Category": "Drinks",
+    "Subcategory": "Beer",
+    "Name": "Hoegaarden",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [],
+    "Price": 98,
+    "Options": {
+      "Size": [
+        {
+          "Name": "500 ml",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 0
+        }
+      ]
+    }
   }
 ]

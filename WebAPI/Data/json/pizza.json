@@ -76,6 +76,81 @@
 
   },
   {
+    "Id": 113,
+    "Category": "Pizza",
+    "Subcategory": "New",
+    "Name": "Pizza with pear and blue cheese",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [
+      "Mozarella",
+      "Bergader Blue",
+      "Al'fredo sauce",
+      "Pear"
+    ],
+    "Price": 240,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 502
+        },
+        {
+          "Name": "Large",
+          "Selected": false,
+          "Price": 1.15,
+          "Weight": 680
+        },
+        {
+          "Name": "ExtraLarge",
+          "Selected": false,
+          "Price": 1.30,
+          "Weight": 755
+        }
+      ]
+    }
+
+  },
+  {
+    "Id": 114,
+    "Category": "Pizza",
+    "Subcategory": "New",
+    "Name": "Pizza with turkey",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [
+      "Mozarella",
+      "Al'fredo sauce",
+      "Turkey"
+    ],
+    "Price": 309,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 495
+        },
+        {
+          "Name": "Large",
+          "Selected": false,
+          "Price": 1.15,
+          "Weight": 683
+        },
+        {
+          "Name": "ExtraLarge",
+          "Selected": false,
+          "Price": 1.30,
+          "Weight": 747
+        }
+      ]
+    }
+
+  },
+  {
     "Id": 121,
     "Category": "Pizza",
     "Subcategory": "Best price",
@@ -113,6 +188,278 @@
         }
       ]
     }
-
+  },
+  {
+    "Id": 122,
+    "Category": "Pizza",
+    "Subcategory": "Best price",
+    "Name": "Pizza Pepperoni with tomatoes",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [
+      "Peperoni",
+      "Mozarella",
+      "Tomatoes",
+      "BBQ sauce"
+    ],
+    "Price": 240,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 532
+        },
+        {
+          "Name": "Large",
+          "Selected": false,
+          "Price": 1.15,
+          "Weight": 716
+        },
+        {
+          "Name": "ExtraLarge",
+          "Selected": false,
+          "Price": 1.30,
+          "Weight": 763
+        }
+      ]
+    }
+  },
+  {
+    "Id": 123,
+    "Category": "Pizza",
+    "Subcategory": "Best price",
+    "Name": "Pizza Manhattan",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [
+      "Peperoni",
+      "Mozarella",
+      "Mushrooms",
+      "Al'fredo sauce"
+    ],
+    "Price": 278,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 562
+        },
+        {
+          "Name": "Large",
+          "Selected": false,
+          "Price": 1.15,
+          "Weight": 771
+        },
+        {
+          "Name": "ExtraLarge",
+          "Selected": false,
+          "Price": 1.30,
+          "Weight": 792
+        }
+      ]
+    }
+  },
+  {
+    "Id": 124,
+    "Category": "Pizza",
+    "Subcategory": "Best price",
+    "Name": "Pizza Ham & mushrooms",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [
+      "Ham",
+      "Mozarella",
+      "Mushrooms",
+      "Domino's sauce"
+    ],
+    "Price": 240,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 529
+        },
+        {
+          "Name": "Large",
+          "Selected": false,
+          "Price": 1.15,
+          "Weight": 741
+        },
+        {
+          "Name": "ExtraLarge",
+          "Selected": false,
+          "Price": 1.30,
+          "Weight": 801
+        }
+      ]
+    }
+  },
+  {
+    "Id": 131,
+    "Category": "Pizza",
+    "Subcategory": "Finest",
+    "Name": "Pizza Beef and Crispy",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [
+      "Crispy onion",
+      "Sweet pepper",
+      "BBQ Sauce",
+      "Mozarella",
+      "Tomatoes",
+      "Packed cucumbers",
+      "Beef"
+    ],
+    "Price": 318,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 613
+        },
+        {
+          "Name": "Large",
+          "Selected": false,
+          "Price": 1.15,
+          "Weight": 832
+        },
+        {
+          "Name": "ExtraLarge",
+          "Selected": false,
+          "Price": 1.30,
+          "Weight": 907
+        }
+      ]
+    }
+  },
+  {
+    "Id": 132,
+    "Category": "Pizza",
+    "Subcategory": "Finest",
+    "Name": "Pizza Ekstravaganza",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [
+      "Peperoni",
+      "Meatballs",
+      "Ham",
+      "Mozarella",
+      "Sweet pepper",
+      "Onion",
+      "Olives",
+      "Mushrooms",
+      "Domino's sauce"
+    ],
+    "Price": 338,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 667
+        },
+        {
+          "Name": "Large",
+          "Selected": false,
+          "Price": 1.15,
+          "Weight": 918
+        },
+        {
+          "Name": "ExtraLarge",
+          "Selected": false,
+          "Price": 1.30,
+          "Weight": 1014
+        }
+      ]
+    }
+  },
+  {
+    "Id": 133,
+    "Category": "Pizza",
+    "Subcategory": "Finest",
+    "Name": "Pizza Munich Delux",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [
+      "Bavarian sausages",
+      "Ham",
+      "Mozarella",
+      "Mustard",
+      "Tomatoes",
+      "BBQ sauce",
+      "White sausages"
+    ],
+    "Price": 316,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 598
+        },
+        {
+          "Name": "Large",
+          "Selected": false,
+          "Price": 1.15,
+          "Weight": 834
+        },
+        {
+          "Name": "ExtraLarge",
+          "Selected": false,
+          "Price": 1.30,
+          "Weight": 908
+        }
+      ]
+    }
+  },
+  {
+    "Id": 134,
+    "Category": "Pizza",
+    "Subcategory": "Finest",
+    "Name": "Pizza Mittsa",
+    "Amount": 1,
+    "Image": "",
+    "Ingredients": [
+      "Peperoni",
+      "Bavarian sausages",
+      "Ham",
+      "Parmesan",
+      "Mozarella",
+      "Domino's sauce",
+      "Bacon"
+    ],
+    "Price": 335,
+    "Options": {
+      "Size": [
+        {
+          "Name": "Standart",
+          "Selected": true,
+          "Price": 1,
+          "Weight": 588
+        },
+        {
+          "Name": "Large",
+          "Selected": false,
+          "Price": 1.15,
+          "Weight": 795
+        },
+        {
+          "Name": "ExtraLarge",
+          "Selected": false,
+          "Price": 1.30,
+          "Weight": 870
+        }
+      ]
+    }
   }
 ]
